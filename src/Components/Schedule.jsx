@@ -1,20 +1,13 @@
 import { useState } from "react";
-import img1 from "../assets/images/sch_images_1.png";
-import img2 from "../assets/images/sch_images_2.png";
-import img3 from "../assets/images/sch_images_3.png"; 
-import img4 from "../assets/images/sch_images_4.png";
-import img5 from "../assets/images/sch_images_5.png";
-import img6 from "../assets/images/sch_images_6.png";
-import img7 from "../assets/images/sch_images_7.png";
-import img8 from "../assets/images/sch_images_8.png";
-// const img1='../assets/images/sch_images_1.png';
-// const img2='../assets/images/sch_images_2.png'
-// const img3='../assets/images/sch_images_3.png'; 
-// const img4='../assets/images/sch_images_4.png';
-// const img5='../assets/images/sch_images_5.png';
-// const img6='../assets/images/sch_images_6.png';
-// const img7='../assets/images/sch_images_7.png';
-// const img8='../assets/images/sch_images_8.png'; 
+import img1 from "../assets/Images/sch_images_1.png";
+import img2 from "../assets/Images/sch_images_2.png";
+import img3 from "../assets/Images/sch_images_3.png"; 
+import img4 from "../assets/Images/sch_images_4.png";
+import img5 from "../assets/Images/sch_images_5.png";
+import img6 from "../assets/Images/sch_images_6.png";
+import img7 from "../assets/Images/sch_images_7.png";
+import img8 from "../assets/Images/sch_images_8.png";
+
 const scheduleData = [
   //  { id: 1, day: "SUNDAY", date: "25", suffix: "TH", month: "NOV", primary: "CARDIO", secondary: "WEIGHT TRAINING", image: img1 },
   { id: 2,image: img2 },
