@@ -1,7 +1,7 @@
-import coach1 from "../assets/images/co_1.png";
-import coach2 from "../assets/images/co_2.png";
-import coach3 from "../assets/images/co_3.png";
-import coach4 from "../assets/images/co_4.png";
+import coach1 from "../assets/Images/co_1.png";
+import coach2 from "../assets/Images/co_2.png";
+import coach3 from "../assets/Images/co_3.png";
+import coach4 from "../assets/Images/co_4.png";
 import { Link } from "react-router-dom";
 
 const coaches = [
