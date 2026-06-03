@@ -1,4 +1,4 @@
-import reviewImg from "../assets/images/review_images.png";
+import reviewImg from "../assets/Images/review_images.png";
 
 export default function Review() {
   return (

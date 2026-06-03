@@ -1,5 +1,5 @@
 import React from 'react'
-import Hero from '../assets/images/Hero.png'
+import Hero from '../assets/Images/Hero.png'
 const Header = () => {
   return (
     <div>

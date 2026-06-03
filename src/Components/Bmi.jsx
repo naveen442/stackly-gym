@@ -1,5 +1,5 @@
 import React from 'react'
-import Hero from '../assets/images/CALCULATE YOUR.png'
+import Hero from '../assets/Images/CALCULATE YOUR.png'
 const Bmi = () => {
   return (
     <div>
